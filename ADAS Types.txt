@@ -1,0 +1,33 @@
+=================================================
+Advanced Driver Assistance Systems (ADAS) Types:
+=================================================
+
+ACC: Adaptive Cruise Control
+BSM: Blind Spot Monitoring
+ESC: Electronic Stability Control
+AEB: Automatic Emergency Braking
+LDW: Lane Departure Warning
+HSA: Hill Start Assist
+HDC: Hill Descent Control
+TPMS: Tire Pressure Monitoring System
+TSR: Traffic Sign Recognition
+V2X: Vehicle to X Communication
+V2V: Vehicle to Vehicle
+V2I: Vehicle to Infrastructure
+V2D: Vehicle to Device
+V2P: Vehicle to Pedestrian
+V2N: Vehicle to Network/Internet/Cloud
+
+Lane Change Assist 
+Pedestrian Detection/Protection
+Wrong-way Driver Warning
+Traction Control System
+Omniview Technology
+Driver Monitoring
+Automotive Night Vision
+Automotive Heads-up Display
+Automatic Parking (Assist)
+Adaptive Light Control
+Autonomous Valet Parking
+Crosswind Stabilization
+
